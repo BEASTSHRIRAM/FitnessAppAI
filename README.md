@@ -1,34 +1,7 @@
 BeastXFitness AI App
 AI-Powered Fitness & Wellness Platform
-BeastXFitness is a comprehensive AI-powered fitness and wellness application designed to help users achieve their health goals. It provides tools for tracking personal records, generating personalized recommendations, and leveraging AI for insights. The application features a robust Spring Boot Java backend and a dynamic React/TypeScript frontend, with the AI Chatbot powered by Botpress.
-
-Table of Contents
-Features
-
-Technologies Used
-
-Backend
-
-Frontend
-
-Getting Started
-
-Prerequisites
-
-Backend Setup
-
-Frontend Setup
-
-Running the Application
-
-API Endpoints (Backend)
-
-Project Structure
-
-License
-
-Contact
-
+BeastXFitness is a comprehensive AI-powered fitness and wellness application designed to help users achieve their health goals. It provides tools for tracking personal records, generating personalized recommendations, and leveraging AI for insights.
+The application features a robust Spring Boot Java backend and a dynamic React/TypeScript frontend, with the AI Chatbot powered by Botpress.
 Features
 Core Features:
 User Authentication & Authorization: Secure user registration, login, and protected routes using JWT (JSON Web Tokens).
